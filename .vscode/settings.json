@@ -1,3 +1,7 @@
 {
-    "python.pythonPath": "venv/bin/python"
+    "python.pythonPath": "venv/bin/python",
+    "terminal.integrated.env.linux": {
+        "PYTHONPATH": "src"
+    },
+    "python.envFile": "${workspaceFolder}/.env"
 }
