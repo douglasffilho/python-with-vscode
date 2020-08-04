@@ -8,3 +8,7 @@
 ```bash
 sh ./create-venv.sh
 ```
+### Instalando dependencias
+```bash
+sh ./import-dependencies.sh
+```
